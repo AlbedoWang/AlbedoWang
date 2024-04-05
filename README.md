@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 Currently working on computer system and machine learning
+- 🌱 Learning CUDA coding and advanced Python coding skills for system building
+- 🎈 Improving research capabilities 
 <!--
 **AlbedoWang/AlbedoWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages 🤟🏻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
